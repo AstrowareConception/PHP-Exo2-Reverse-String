@@ -4,6 +4,7 @@ Créez une fonction qui prend en paramètre une chaine de caractères et qui ret
 
 # Exemple :
 reverse_string("abcdef GHI") ;
+
 doit afficher "IHG fedcba" ;
 
 # Indications:
